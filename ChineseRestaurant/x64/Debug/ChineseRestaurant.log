@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  Cashier.cpp
+  ChineseRestaurant.cpp
+  Customer.cpp
+  DepartureHall.cpp
+c:\users\asus\desktop\emin-project\chineserestaurant\departurehall.cpp(263): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  ServiceDesk.cpp
+  Waiter.cpp
+  Kod Üretiliyor...
+  ChineseRestaurant.vcxproj -> C:\Users\Asus\Desktop\Emin-Project\x64\Debug\ChineseRestaurant.exe
